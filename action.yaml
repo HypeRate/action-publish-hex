@@ -1,6 +1,6 @@
-name: 'Publish elixir packages to hex.pm'
+name: 'hex.pm publish - Elixir 1.14'
 description: 'Publish elixir packages to hex.pm'
-author: 'wesleimp'
+author: 'YannickFricke'
 
 runs:
   using: 'docker'
